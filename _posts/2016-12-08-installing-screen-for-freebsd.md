@@ -1,12 +1,10 @@
 ---
-id: 201
 title: Installing Screen for FreeBSD
 date: 2016-12-08T00:27:49+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=201
 permalink: /installing-screen-for-freebsd/
-image: /wp-content/uploads/2016/12/installing-screen-freebsd.png
+image: /images/uploads/2016/12/installing-screen-freebsd.png
 categories:
   - FreeBSD
 ---

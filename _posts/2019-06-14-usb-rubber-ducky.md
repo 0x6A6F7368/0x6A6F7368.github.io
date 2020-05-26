@@ -1,12 +1,10 @@
 ---
-id: 454
 title: USB Rubber Ducky
 date: 2019-06-14T06:50:25+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=454
 permalink: /usb-rubber-ducky/
-image: /wp-content/uploads/2019/06/usb-rubber-ducky.jpg
+image: /images/uploads/2019/06/usb-rubber-ducky.jpg
 categories:
   - Security
 tags:

@@ -1,12 +1,10 @@
 ---
-id: 411
 title: Dumping NTLM Hashes
 date: 2017-02-10T00:29:58+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=411
 permalink: /dumping-ntlm-hashes/
-image: /wp-content/uploads/2017/02/dumping_ntlm_hashes.jpg
+image: /images/uploads/2017/02/dumping_ntlm_hashes.jpg
 categories:
   - Security
   - Tools

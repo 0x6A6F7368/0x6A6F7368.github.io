@@ -1,12 +1,10 @@
 ---
-id: 275
 title: Linux as my daily driver
 date: 2018-11-11T23:18:45+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=275
 permalink: /linux-as-my-daily-driver/
-image: /wp-content/uploads/2018/11/800px-Ubuntu-18.04-Desktop.png
+image: /images/uploads/2018/11/800px-Ubuntu-18.04-Desktop.png
 categories:
   - Linux
 ---
@@ -24,12 +22,12 @@ So wish me luck as I go down the new path of Linux on the desktop. I will keep t
 
 * * *
 
-<a href="https://blog.joshdawes.com/quit-a-program-on-ubuntu-with-alt-q/" target="_blank" rel="noopener">Quit a Program on Ubuntu with Alt + Q</a>
+<a href="https://joshdawes.com/quit-a-program-on-ubuntu-with-alt-q/" target="_blank" rel="noopener">Quit a Program on Ubuntu with Alt + Q</a>
 
-[Minimise Windows on Ubuntu 18.04 with Super + M](https://blog.joshdawes.com/minimise-windows-on-ubuntu-18-04-with-super-m/)
+[Minimise Windows on Ubuntu 18.04 with Super + M](https://joshdawes.com/minimise-windows-on-ubuntu-18-04-with-super-m/)
 
-[Fixing the Calculator Key in Ubuntu](https://blog.joshdawes.com/fixing-the-calculator-key-in-ubuntu-18-04/)
+[Fixing the Calculator Key in Ubuntu](https://joshdawes.com/fixing-the-calculator-key-in-ubuntu-18-04/)
 
-[Turn on Sudo Insults](https://blog.joshdawes.com/turn-on-sudo-insults/)
+[Turn on Sudo Insults](https://joshdawes.com/turn-on-sudo-insults/)
 
-[Show Date in Ubuntu 18.04 Top Bar](https://blog.joshdawes.com/show-date-in-ubuntu-18-04-top-bar/)
+[Show Date in Ubuntu 18.04 Top Bar](https://joshdawes.com/show-date-in-ubuntu-18-04-top-bar/)

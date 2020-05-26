@@ -1,12 +1,10 @@
 ---
-id: 347
 title: Installing and Using Git and GitHub on Ubuntu
 date: 2019-01-07T02:50:29+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=347
 permalink: /installing-and-using-git-and-github-on-ubuntu/
-image: /wp-content/uploads/2019/01/github.png
+image: /images/uploads/2019/01/github.png
 categories:
   - Linux
   - Tools

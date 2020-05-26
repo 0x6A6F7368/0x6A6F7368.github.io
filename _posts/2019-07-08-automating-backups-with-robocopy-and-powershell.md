@@ -1,12 +1,10 @@
 ---
-id: 491
 title: Automating backups with RoboCopy and PowerShell
 date: 2019-07-08T05:31:16+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=491
 permalink: /automating-backups-with-robocopy-and-powershell/
-image: /wp-content/uploads/2019/07/robocopy.png
+image: /images/uploads/2019/07/robocopy.png
 categories:
   - PowerShell
   - Tools
@@ -24,7 +22,7 @@ You should also test your backups regularly!
 
 We are going to backup files from an internal hard drive onto an external hard drive that is always plugged in. This will work well for hard drive failure, but wont be a great backup against ransomware.
 
-Automating tasks is great for productivity. Especially if you can reuse scripts from [other tasks](https://blog.joshdawes.com/usb-rubber-ducky/).
+Automating tasks is great for productivity. Especially if you can reuse scripts from [other tasks](https://joshdawes.com/usb-rubber-ducky/).
 
 To get started, first open <a rel="noreferrer noopener" aria-label="PowerShell (opens in a new tab)" href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> as an administrator. We need to create a folder to store our basic script. In your PowerShell window enter the following command:
 
@@ -56,4 +54,4 @@ You will be asked to enter the username for the Administrator account, then foll
 
 <pre class="wp-block-preformatted">Register-ScheduledTask -Action $action -Trigger $trigger -Principal $principal -TaskName "Backup D Drive" -Description "Daily Backup of Drive D"</pre>
 
-You now have a scheduled task that copies the content of drive D to drive E every day at 1pm &#8211; leaving you more time to [browse my blog!](https://blog.joshdawes.com/recent-posts/)
+You now have a scheduled task that copies the content of drive D to drive E every day at 1pm &#8211; leaving you more time to [browse my blog!](https://joshdawes.com/recent-posts/)

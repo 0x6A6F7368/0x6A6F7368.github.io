@@ -1,12 +1,10 @@
 ---
-id: 358
 title: Python 3 KeePass Dictionary Attack
 date: 2019-01-08T00:23:00+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=358
 permalink: /python-3-keepass-dictionary-attack/
-image: /wp-content/uploads/2019/01/python-3-keepass-dictionary-attack.png
+image: /images/uploads/2019/01/python-3-keepass-dictionary-attack.png
 categories:
   - Linux
   - Security
@@ -14,7 +12,7 @@ categories:
 ---
 Github: <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://github.com/0x6A6F7368/KeePassDictionaryAttack" target="_blank">https://github.com/0x6A6F7368/KeePassDictionaryAttack</a>
 
-A few years back I created a <a rel="noreferrer noopener" aria-label="python script (opens in a new tab)" href="https://blog.joshdawes.com/keepass-dictionary-attack/" target="_blank">python script</a> for a class I was teaching on password security. It is a basic script to run a dictionary attack against a <a href="https://keepass.info" target="_blank" rel="noreferrer noopener" aria-label="KeePass (opens in a new tab)">KeePass</a> database. Being that Python 2.7 <a rel="noreferrer noopener" aria-label="EOL date is quickly approaching (opens in a new tab)" href="https://www.python.org/dev/peps/pep-0373/" target="_blank">EOL date is quickly approaching</a>, I thought I might change my script to suit Python 3 &#8211; and do a quick blog post on how to run the new script.
+A few years back I created a <a rel="noreferrer noopener" aria-label="python script (opens in a new tab)" href="https://joshdawes.com/keepass-dictionary-attack/" target="_blank">python script</a> for a class I was teaching on password security. It is a basic script to run a dictionary attack against a <a href="https://keepass.info" target="_blank" rel="noreferrer noopener" aria-label="KeePass (opens in a new tab)">KeePass</a> database. Being that Python 2.7 <a rel="noreferrer noopener" aria-label="EOL date is quickly approaching (opens in a new tab)" href="https://www.python.org/dev/peps/pep-0373/" target="_blank">EOL date is quickly approaching</a>, I thought I might change my script to suit Python 3 &#8211; and do a quick blog post on how to run the new script.
 
 First of all you will need to download and install the **libkeepass** module. This can be done using pip. If you haven&#8217;t installed pip3 you will need to do this first.
 

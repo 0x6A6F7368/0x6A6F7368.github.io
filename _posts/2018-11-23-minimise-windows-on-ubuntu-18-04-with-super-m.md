@@ -1,17 +1,15 @@
 ---
-id: 307
 title: Minimise windows on Ubuntu 18.04 with Super + M
 date: 2018-11-23T04:30:23+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=307
 permalink: /minimise-windows-on-ubuntu-18-04-with-super-m/
-image: /wp-content/uploads/2018/11/windows-key.jpg
+image: /images/uploads/2018/11/windows-key.jpg
 categories:
   - Linux
   - Ubuntu
 ---
-This has turned somewhat into a series of blog posts outlining my transition to <a href="https://blog.joshdawes.com/linux-as-my-daily-driver/" target="_blank" rel="noopener">Linux as my daily driver</a>. I’m not new to Linux, and have run various variants of Linux on servers (<a href="https://www.slackware.com" target="_blank" rel="noopener">Slackware</a> and <a href="https://www.ubuntu.com" target="_blank" rel="noopener">Ubuntu</a> mostly). The desktop experience has been a little different as there are certain things I have been so used to on Windows – and I don&#8217;t like too much change all at once!
+This has turned somewhat into a series of blog posts outlining my transition to <a href="https://joshdawes.com/linux-as-my-daily-driver/" target="_blank" rel="noopener">Linux as my daily driver</a>. I’m not new to Linux, and have run various variants of Linux on servers (<a href="https://www.slackware.com" target="_blank" rel="noopener">Slackware</a> and <a href="https://www.ubuntu.com" target="_blank" rel="noopener">Ubuntu</a> mostly). The desktop experience has been a little different as there are certain things I have been so used to on Windows – and I don&#8217;t like too much change all at once!
 
 These steps may carry over to other versions of Ubuntu. I will now show you how to Minimise windows on Ubuntu 18.04 with Super + M.
 

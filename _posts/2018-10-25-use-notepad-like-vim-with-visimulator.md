@@ -1,12 +1,10 @@
 ---
-id: 268
 title: Use NotePad ++ like Vim with ViSimulator
 date: 2018-10-25T03:55:02+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=268
 permalink: /use-notepad-like-vim-with-visimulator/
-image: /wp-content/uploads/2018/10/notepadplusplus.png
+image: /images/uploads/2018/10/notepadplusplus.png
 categories:
   - Tools
 ---
@@ -20,7 +18,7 @@ From the **Plugins** menu navigate to **Plugin Manager** & click **Show Plugin M
 
 Scroll down the list until you see **ViSimulator for Notepad ++**. Tick the box and then click **install**.
 
-<img class="aligncenter size-full wp-image-269" src="https://blog.joshdawes.com/wp-content/uploads/2018/10/visimulator.png" alt="" width="670" height="640" /> 
+<img class="aligncenter size-full wp-image-269" src="https://joshdawes.com/images/uploads/2018/10/visimulator.png" alt="" width="670" height="640" /> 
 
 Notepad ++ will require and restart, follow the prompts to restart now.
 

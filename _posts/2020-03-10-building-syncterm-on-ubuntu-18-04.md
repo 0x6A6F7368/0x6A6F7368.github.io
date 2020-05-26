@@ -1,12 +1,10 @@
 ---
-id: 536
 title: Building SyncTerm on Ubuntu 18.04
 date: 2020-03-10T04:25:46+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=536
 permalink: /building-syncterm-on-ubuntu-18-04/
-image: /wp-content/uploads/2020/03/syncterm.png
+image: /images/uploads/2020/03/syncterm.png
 categories:
   - Linux
   - Nostalgia
@@ -48,4 +46,4 @@ This may take some time. Once it completes you can run SyncTERM by typing **sync
 
 **Now you can exchange information the way <a rel="noreferrer noopener" aria-label="Ward Christensen (opens in a new tab)" href="https://twitter.com/wardxmodem" target="_blank">Ward Christensen</a> and Randy Suess intended.**
 
-While you&#8217;re here check out my [earlier posts](https://blog.joshdawes.com/recent-posts/)! If you have any interesting BBSes you wish to share feel free to [email](mailto:hello@blue-shell.org) me!
+While you&#8217;re here check out my [earlier posts](https://joshdawes.com/recent-posts/)! If you have any interesting BBSes you wish to share feel free to [email](mailto:hello@blue-shell.org) me!

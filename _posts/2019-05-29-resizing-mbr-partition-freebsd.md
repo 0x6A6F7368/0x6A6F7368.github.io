@@ -1,12 +1,10 @@
 ---
-id: 382
 title: Resizing MBR Partition FreeBSD
 date: 2019-05-29T06:38:27+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=382
 permalink: /resizing-mbr-partition-freebsd/
-image: /wp-content/uploads/2019/05/resizing-mbr-partition-freebsd.png
+image: /images/uploads/2019/05/resizing-mbr-partition-freebsd.png
 categories:
   - FreeBSD
   - Tools

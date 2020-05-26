@@ -1,12 +1,10 @@
 ---
-id: 373
 title: Cull your Twitter Friends with Thanos
 date: 2019-01-22T09:09:38+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=373
 permalink: /cull-your-twitter-friends-with-thanos/
-image: /wp-content/uploads/2019/01/thanos.jpg
+image: /images/uploads/2019/01/thanos.jpg
 categories:
   - Python
 ---

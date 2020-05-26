@@ -1,12 +1,10 @@
 ---
-id: 247
 title: Holiday Season maintenance for Family and Friends
 date: 2018-11-13T02:54:06+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=247
 permalink: /holiday-season-maintenance-for-family-and-friends/
-image: /wp-content/uploads/2018/11/holiday-season-maintenance.jpg
+image: /images/uploads/2018/11/holiday-season-maintenance.jpg
 categories:
   - Tools
   - Windows

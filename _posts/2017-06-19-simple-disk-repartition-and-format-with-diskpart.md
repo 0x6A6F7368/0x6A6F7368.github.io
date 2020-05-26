@@ -1,12 +1,10 @@
 ---
-id: 237
 title: Simple disk repartition and format with diskpart
 date: 2017-06-19T23:33:38+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=237
 permalink: /simple-disk-repartition-and-format-with-diskpart/
-image: /wp-content/uploads/2017/06/simple-disk-repartition-and-format-with-diskpart.png.png
+image: /images/uploads/2017/06/simple-disk-repartition-and-format-with-diskpart.png.png
 categories:
   - Windows
 ---

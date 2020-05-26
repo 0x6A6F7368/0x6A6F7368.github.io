@@ -1,19 +1,17 @@
 ---
-id: 299
 title: Fixing the Calculator Key in Ubuntu 18.04
 date: 2018-11-22T04:32:21+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=299
 permalink: /fixing-the-calculator-key-in-ubuntu-18-04/
-image: /wp-content/uploads/2018/11/fixing_the_calculator_key_in_ubuntu_18.04.jpg
+image: /images/uploads/2018/11/fixing_the_calculator_key_in_ubuntu_18.04.jpg
 categories:
   - Linux
   - Ubuntu
 ---
-Recently I decided to give Ubuntu 18.04 a go as [my daily driver.](https://blog.joshdawes.com/linux-as-my-daily-driver/) I have slowly been finding things that do not work as expected, and will blog about them [here](https://blog.joshdawes.com).
+Recently I decided to give Ubuntu 18.04 a go as [my daily driver.](https://joshdawes.com/linux-as-my-daily-driver/) I have slowly been finding things that do not work as expected, and will blog about them [here](https://joshdawes.com).
 
-So far I&#8217;ve found there was [no date](https://blog.joshdawes.com/show-date-in-ubuntu-18-04-top-bar/) in the top bar, my printer doesn&#8217;t work, and sudo [didn&#8217;t curse me](https://blog.joshdawes.com/turn-on-sudo-insults/) if my password was entered incorrectly.
+So far I&#8217;ve found there was [no date](https://joshdawes.com/show-date-in-ubuntu-18-04-top-bar/) in the top bar, my printer doesn&#8217;t work, and sudo [didn&#8217;t curse me](https://joshdawes.com/turn-on-sudo-insults/) if my password was entered incorrectly.
 
 This time my issue is the calculator keyboard shortcut on the Microsoft Wired Keyboard 600, doesn&#8217;t open the Calculator. I use this key many times a day, and eventually got sick of searching calc in the Application menu.
 

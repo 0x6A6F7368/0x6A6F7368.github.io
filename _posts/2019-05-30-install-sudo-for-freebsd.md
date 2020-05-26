@@ -1,12 +1,10 @@
 ---
-id: 242
 title: Install Sudo for FreeBSD
 date: 2019-05-30T23:34:28+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=242
 permalink: /install-sudo-for-freebsd/
-image: /wp-content/uploads/2017/06/install-sudo-for-freebsd.jpg
+image: /images/uploads/2017/06/install-sudo-for-freebsd.jpg
 categories:
   - FreeBSD
 ---
@@ -22,7 +20,7 @@ Type out the following command to change directory to the sudo port and commence
 
 <pre>cd /usr/ports/security/sudo/ && make install clean</pre>
 
-Leave the defaults selected, but be sure to also select <a href="https://blog.joshdawes.com/turn-on-sudo-insults/" target="_blank" rel="noopener noreferrer">insults</a> so you get a witty message when you incorrectly enter your sudo password &#8211; then select ok.
+Leave the defaults selected, but be sure to also select <a href="https://joshdawes.com/turn-on-sudo-insults/" target="_blank" rel="noopener noreferrer">insults</a> so you get a witty message when you incorrectly enter your sudo password &#8211; then select ok.
 
 The port will now build. Once it has completed, you will be required to add a user to the sudoers. To edit the sudoers file it is recommended to use the visudo tool. It can be ran by entering the following:
 

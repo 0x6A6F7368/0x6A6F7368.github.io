@@ -1,12 +1,10 @@
 ---
-id: 513
 title: Backup Home Directory with rsnapshot
 date: 2019-11-26T03:39:11+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=513
 permalink: /backup-home-directory-with-rsnapshot/
-image: /wp-content/uploads/2019/11/rsnapshot.png
+image: /images/uploads/2019/11/rsnapshot.png
 categories:
   - Linux
   - Tools
@@ -107,4 +105,4 @@ The older versions will be removed as per the retention policy in the configurat
 
 And that&#8217;s it &#8211; you have an automated system that takes snapshots of your home directory and stores those files on a local drive. 
 
-Now that you&#8217;ve automated your backups with rsnapshot, you&#8217;ll have plenty of time to browse my other [blog posts!](https://blog.joshdawes.com/recent-posts/)
+Now that you&#8217;ve automated your backups with rsnapshot, you&#8217;ll have plenty of time to browse my other [blog posts!](https://joshdawes.com/recent-posts/)

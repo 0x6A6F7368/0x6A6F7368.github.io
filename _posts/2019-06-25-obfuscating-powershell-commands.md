@@ -1,12 +1,10 @@
 ---
-id: 472
 title: Obfuscating PowerShell Commands
 date: 2019-06-25T04:34:07+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=472
 permalink: /obfuscating-powershell-commands/
-image: /wp-content/uploads/2019/06/obfuscating-powershell-commands.png
+image: /images/uploads/2019/06/obfuscating-powershell-commands.png
 categories:
   - PowerShell
   - Security
@@ -17,7 +15,7 @@ I recently wrote a Ducky Script that creates a scheduled task upon plugging a <a
 
 PowerShell commands can be obfuscated using base64. These commands can be submitted to PowerShell using the the **EncodedCommands** parameter. While designed to be used to submit commands to PowerShell that require complex quotation marks or curly braces, it can also be used in an attempt to hide what commands a script is running.
 
-The PowerShell commands my [Ducky Script](https://blog.joshdawes.com/usb-rubber-ducky/) runs are as follows:
+The PowerShell commands my [Ducky Script](https://joshdawes.com/usb-rubber-ducky/) runs are as follows:
 
 <pre class="wp-block-preformatted">$action = New-ScheduledTaskAction -Execute 'wlrmdr.exe' -Argument " -s 60000 -f 1 -t You've Been Pwned! -m Remember that USB you plugged in? Pepperidge Farm Remembers. -a o"
 

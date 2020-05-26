@@ -1,12 +1,10 @@
 ---
-id: 425
 title: KeePass Dictionary Attack
 date: 2016-01-02T00:44:40+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=425
 permalink: /keepass-dictionary-attack/
-image: /wp-content/uploads/2016/01/keepass-dictionary-attack.png
+image: /images/uploads/2016/01/keepass-dictionary-attack.png
 categories:
   - Python
   - Security
@@ -15,7 +13,7 @@ categories:
 
 Python 3 version can be found on <a href="https://github.com/0x6A6F7368/KeePassDictionaryAttack" target="_blank" rel="noreferrer noopener">GitHub</a>.
 
-Updated page can be viewed [here](https://blog.joshdawes.com/python-3-keepass-dictionary-attack/).
+Updated page can be viewed [here](https://joshdawes.com/python-3-keepass-dictionary-attack/).
 
 ## KeePass Dictionary Attack &#8211; Python 2.7
 
@@ -36,7 +34,7 @@ for line in f:
 I wrote this script for a class I was teaching on using Password Managers. Even though we were implementing a Password Manager, some students still insisted on using simple passwords, thus leaving their password manager vulnerable to a simple dictionary attack. It is by no means an elaborate script, but was enough to outline to my students why we should use strong passwords to protect sensitive data.
 
 <div class="wp-block-image wp-image-116 size-full">
-  <figure class="aligncenter"><img src="https://blog.joshdawes.com/wp-content/uploads/2016/01/keepass-dictionary-attack.png" alt="Keepass Dictionary Attack" class="wp-image-116" /><figcaption>The KeePass Dictionary Attack script displaying the password found for a KeePass database.</figcaption></figure>
+  <figure class="aligncenter"><img src="https://joshdawes.com/images/uploads/2016/01/keepass-dictionary-attack.png" alt="Keepass Dictionary Attack" class="wp-image-116" /><figcaption>The KeePass Dictionary Attack script displaying the password found for a KeePass database.</figcaption></figure>
 </div>
 
 To use this script you will need access to a wordlist. There are many wordlists around and a quick Google search for &#8216;wordlist&#8217; will link you to several.&nbsp;A list of the top 500 worst passwords can be found <a href="https://gist.github.com/djaiss/4033452" target="_blank" rel="noreferrer noopener">here</a>.
@@ -53,4 +51,4 @@ To help protect against a KeePass Dictionary Attack you can try some of the opti
 
 ## Dictionary Attack
 
-A dictionary attack is when an attacker uses a wordlist of common passwords to attempt entry into your account/devices/files/etc. This is often successful due to people using simple dictionary words for passwords &#8211; to avoid this kind of attack ensure you use [long, unique passwords](https://blog.joshdawes.com/diceware-passphrase-generator/).
+A dictionary attack is when an attacker uses a wordlist of common passwords to attempt entry into your account/devices/files/etc. This is often successful due to people using simple dictionary words for passwords &#8211; to avoid this kind of attack ensure you use [long, unique passwords](https://joshdawes.com/diceware-passphrase-generator/).

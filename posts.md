@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Posts 
-permalink: /posts/
+title: Recent Posts 
+permalink: /recent-posts/
 ---
 
 <ul>

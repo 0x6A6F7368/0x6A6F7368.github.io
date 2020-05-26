@@ -1,12 +1,10 @@
 ---
-id: 326
 title: Change the default editor for Visudo
 date: 2019-01-06T23:57:16+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=326
 permalink: /change-the-default-editor-for-visudo/
-image: /wp-content/uploads/2017/06/install-sudo-for-freebsd.jpg
+image: /images/uploads/2017/06/install-sudo-for-freebsd.jpg
 categories:
   - Linux
   - Ubuntu

@@ -1,12 +1,10 @@
 ---
-id: 551
 title: Upgrading to Ubuntu 20.04 LTS
 date: 2020-04-28T04:08:04+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=551
 permalink: /upgrading-to-ubuntu-20-04-lts/
-image: /wp-content/uploads/2020/04/ubuntu-20-04.png
+image: /images/uploads/2020/04/ubuntu-20-04.png
 categories:
   - Linux
   - Ubuntu
@@ -15,13 +13,13 @@ categories:
 
 Ubuntu 20.04 LTS &#8211; Focal Fossa &#8211; was released on April 23rd 2020 and can be easily upgraded via the Terminal. If you are using Ubuntu on mission critical systems it may be worth holding off to ensure all the bugs are ironed out. But if you like to live on the edge, and run the latest and greatest, please continue. 
 
-Just over a year ago I decided to use <a rel="noreferrer noopener" href="https://blog.joshdawes.com/linux-as-my-daily-driver/" target="_blank">Ubuntu for my daily driver</a>. I had to make a few tweaks <a rel="noreferrer noopener" href="https://blog.joshdawes.com/quit-a-program-on-ubuntu-with-alt-q/" target="_blank">here</a> and <a rel="noreferrer noopener" href="https://blog.joshdawes.com/fixing-the-calculator-key-in-ubuntu-18-04/" target="_blank">there</a> to get things how <a rel="noreferrer noopener" href="https://blog.joshdawes.com/minimise-windows-on-ubuntu-18-04-with-super-m/" target="_blank">I wanted them,</a> but overall it hasn&#8217;t been a terrible experience.
+Just over a year ago I decided to use <a rel="noreferrer noopener" href="https://joshdawes.com/linux-as-my-daily-driver/" target="_blank">Ubuntu for my daily driver</a>. I had to make a few tweaks <a rel="noreferrer noopener" href="https://joshdawes.com/quit-a-program-on-ubuntu-with-alt-q/" target="_blank">here</a> and <a rel="noreferrer noopener" href="https://joshdawes.com/fixing-the-calculator-key-in-ubuntu-18-04/" target="_blank">there</a> to get things how <a rel="noreferrer noopener" href="https://joshdawes.com/minimise-windows-on-ubuntu-18-04-with-super-m/" target="_blank">I wanted them,</a> but overall it hasn&#8217;t been a terrible experience.
 
 While I was already on a LTS version of <a rel="noreferrer noopener" href="https://ubuntu.com/download" target="_blank">Ubuntu</a> &#8211; I thought I might as well upgrade to the latest LTS &#8211; and write a blog post about it.
 
 ## Before you start
 
-Before getting started please ensure you have a <a rel="noreferrer noopener" href="https://blog.joshdawes.com/backup-home-directory-with-rsnapshot/" target="_blank">backup of your data</a>. Once you have a backup feel free to continue. 
+Before getting started please ensure you have a <a rel="noreferrer noopener" href="https://joshdawes.com/backup-home-directory-with-rsnapshot/" target="_blank">backup of your data</a>. Once you have a backup feel free to continue. 
 
 Start by ensuring all software updates are installed. To do this open Terminal and run the following command:
 
@@ -72,5 +70,5 @@ And there it is, you are now running the latest LTS version of Ubuntu. You can e
 <hr class="wp-block-separator" />
 
 <p class="has-text-align-center">
-  <a href="https://blog.joshdawes.com/recent-posts/" target="_blank" rel="noreferrer noopener">While you&#8217;re here feel free to read my other posts!</a>
+  <a href="https://joshdawes.com/recent-posts/" target="_blank" rel="noreferrer noopener">While you&#8217;re here feel free to read my other posts!</a>
 </p>

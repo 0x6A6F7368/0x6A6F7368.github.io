@@ -1,10 +1,8 @@
 ---
-id: 141
 title: OS X Internet Recovery Error 2100D
 date: 2016-07-10T00:23:32+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=141
 permalink: /os-x-internet-recovery-error-2100d/
 categories:
   - OSX

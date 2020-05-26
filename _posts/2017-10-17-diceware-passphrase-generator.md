@@ -1,12 +1,10 @@
 ---
-id: 418
 title: Diceware Passphrase Generator
 date: 2017-10-17T00:41:56+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=418
 permalink: /diceware-passphrase-generator/
-image: /wp-content/uploads/2016/10/diceware.png
+image: /images/uploads/2016/10/diceware.png
 categories:
   - Python
   - Security
@@ -26,7 +24,7 @@ It has been a while since I have done anything with Python so as a quick easy &#
 </blockquote>
 
 <div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img src="https://blog.joshdawes.com/wp-content/uploads/2016/10/diceware.png" alt="diceware passphrase" class="wp-image-161" width="187" height="187" /></figure>
+  <figure class="aligncenter is-resized"><img src="https://joshdawes.com/images/uploads/2016/10/diceware.png" alt="diceware passphrase" class="wp-image-161" width="187" height="187" /></figure>
 </div>
 
 I will be modifying the script to use the <a href="https://docs.python.org/2/library/os.html#miscellaneous-functions" target="_blank" rel="noreferrer noopener">os.urandom()</a> function and will post it here when I do.

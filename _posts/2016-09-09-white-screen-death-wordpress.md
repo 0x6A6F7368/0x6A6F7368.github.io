@@ -1,10 +1,8 @@
 ---
-id: 154
 title: White Screen of Death (WordPress)
 date: 2016-09-09T01:22:11+00:00
 author: Josh
 layout: post
-guid: https://blog.joshdawes.com/?p=154
 permalink: /white-screen-death-wordpress/
 categories:
   - WordPress
