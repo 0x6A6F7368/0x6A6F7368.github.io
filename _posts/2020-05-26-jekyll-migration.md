@@ -6,5 +6,5 @@ title: "Jekyll Migration!"
 permalink: /jekyll-migration/
 ---
 
-Just migrated my blog from WordPress to Jekyll!
-
+Just migrated my blog from WordPress to Jekyll  
+I hope to bring you a tutorial soon!  

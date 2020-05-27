@@ -4,11 +4,11 @@ excluded: true
 ---
 <h3>Hello World!</h3>
   
-My name is Josh Dawes, and I'm an IT Professional living in Country NSW, Australia.  
+<strong><i>My name is Josh Dawes, and I'm an IT Professional living in Country NSW, Australia.</i></strong>  
 
-This blog is mostly used as a self reference for myself, but I hope you too will get some benefit from the content.  
+<i>This blog is mostly used as a reference for myself, but I hope you too will get some benefit from the content.</i>  
 
-Thank you for stopping by!
+<i>Thank you for stopping by!</i>
 <div align="center">
 <img src="/images/home.png" width="150" />
 </div>

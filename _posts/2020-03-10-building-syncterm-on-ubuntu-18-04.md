@@ -46,4 +46,4 @@ This may take some time. Once it completes you can run SyncTERM by typing **sync
 
 **Now you can exchange information the way <a rel="noreferrer noopener" aria-label="Ward Christensen (opens in a new tab)" href="https://twitter.com/wardxmodem" target="_blank">Ward Christensen</a> and Randy Suess intended.**
 
-While you&#8217;re here check out my [earlier posts](https://joshdawes.com/recent-posts/)! If you have any interesting BBSes you wish to share feel free to [email](mailto:hello@blue-shell.org) me!
+While you&#8217;re here check out my [earlier posts](https://joshdawes.com/recent-posts/)! If you have any interesting BBSes you wish to share feel free to [email](mailto:hello@joshdawes.com) me!
