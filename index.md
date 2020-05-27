@@ -10,8 +10,9 @@ excluded: true
 <br>
 This blog is mostly used as a reference for myself, but I hope you too will get some benefit from the content.
 <br>
-<br><i>Thank you for stopping by!</i></div>
 <div align="center">
 <br>
 <img src="/images/home.png" width="150" />
 </div>
+<br><i>Thank you for stopping by!</i></div>
+
