@@ -7,4 +7,5 @@ permalink: /jekyll-migration/
 ---
 
 Just migrated my blog from WordPress to Jekyll  
-I hope to bring you a tutorial soon!  
+
+Check out my tutorial [here](https://joshdawes.com/migrating-wordpress-to-jekyll/){:target="_blank"}.

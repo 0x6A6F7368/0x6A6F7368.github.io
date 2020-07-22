@@ -10,9 +10,9 @@ I first heard of [VimWiki](https://github.com/vimwiki/vimwiki){:target="_blank"}
 
 # Setting up the Environment 
 
-*These steps are for Ubuntu 20.04LTS but should work fine on other versions of Linux with minimal changes to commands.*
+*These steps are for Ubuntu 20.04 LTS but should work fine on other versions of Linux with minimal changes to commands.*
 
-Even though Vim is included in Ubuntu (via the **vi** command) I was required to reinstall vim via the package manager. This can be done by running the following command:
+Even though Vim is included in Ubuntu (via the **vi** command) I was required to reinstall Vim via the package manager. This can be done by running the following command:
 
 ```
 sudo apt-get update && sudo apt install vim
@@ -52,7 +52,7 @@ VimWiki is now installed.
 
 By default, VimWiki is stored at **~/vimwiki**. This is where you can access all the files you create. The real magic is when you open your files in Vim.
 
-Open vim and type the following command
+Open Vim and type the following command
 
 ```
 \ww
