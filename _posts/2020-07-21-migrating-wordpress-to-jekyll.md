@@ -3,6 +3,8 @@ author: Josh
 date: 2020-07-21
 layout: post
 title: "Migrating WordPress to Jekyll"
+image: images/jekyll.png
+description: Dynamic websites do have their advantages, but for a simple blog a static website may be a more secure option.
 permalink: /migrating-wordpress-to-jekyll/
 ---
 
