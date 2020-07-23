@@ -1,6 +1,6 @@
 ---
 layout: page
-image: images/home.png
+image: images/home-social.png
 excluded: true
 ---
 <h3>Hello World!</h3>
