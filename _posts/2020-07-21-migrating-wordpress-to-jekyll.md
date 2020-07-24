@@ -8,6 +8,8 @@ description: Dynamic websites do have their advantages, but for a simple blog a 
 permalink: /migrating-wordpress-to-jekyll/
 ---
 
+![image](/images/jekyll.png){: .center-image }
+
 WordPress powers just over a [quarter](https://www.techrepublic.com/article/wordpress-quietly-powers-27-percent-of-the-web/){:target="_blank"} of the web.
 
 As with anything that has a large install base, it tends to be the target of malicious actors. Unpatched WordPress, or more likely, unpatched plugins are often the leverage required for an attacker to gain a foothold on your webserver.
