@@ -4,7 +4,7 @@ date: 2020-04-28T04:08:04+00:00
 author: Josh
 layout: post
 permalink: /upgrading-to-ubuntu-20-04-lts/
-image: /images/uploads/2020/04/ubuntu-20-04.png
+image: https://joshdawes.com/images/uploads/2020/04/ubuntu-20-04.png
 categories:
   - Linux
   - Ubuntu

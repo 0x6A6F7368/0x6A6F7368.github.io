@@ -4,7 +4,7 @@ date: 2016-12-07T00:12:48+00:00
 author: Josh
 layout: post
 permalink: /repair-windows-boot-errors/
-image: /images/uploads/2016/11/repair-windows-boot-errors.png
+image: https://joshdawes.com/images/uploads/2016/11/repair-windows-boot-errors.png
 categories:
   - Windows
 ---

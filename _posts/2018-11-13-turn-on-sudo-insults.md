@@ -4,7 +4,7 @@ date: 2018-11-13T02:37:17+00:00
 author: Josh
 layout: post
 permalink: /turn-on-sudo-insults/
-image: /images/uploads/2018/11/sudo-insults.jpg
+image: https://joshdawes.com/images/uploads/2018/11/sudo-insults.jpg
 categories:
   - Linux
 ---

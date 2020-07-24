@@ -4,7 +4,7 @@ date: 2017-06-19T23:33:38+00:00
 author: Josh
 layout: post
 permalink: /simple-disk-repartition-and-format-with-diskpart/
-image: /images/uploads/2017/06/simple-disk-repartition-and-format-with-diskpart.png.png
+image: https://joshdawes.com/images/uploads/2017/06/simple-disk-repartition-and-format-with-diskpart.png.png
 categories:
   - Windows
 ---

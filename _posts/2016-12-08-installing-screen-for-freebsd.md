@@ -4,7 +4,7 @@ date: 2016-12-08T00:27:49+00:00
 author: Josh
 layout: post
 permalink: /installing-screen-for-freebsd/
-image: /images/uploads/2016/12/installing-screen-freebsd.png
+image: ihttps://joshdawes.com/mages/uploads/2016/12/installing-screen-freebsd.png
 categories:
   - FreeBSD
 ---

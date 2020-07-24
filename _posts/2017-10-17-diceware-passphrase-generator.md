@@ -4,7 +4,7 @@ date: 2017-10-17T00:41:56+00:00
 author: Josh
 layout: post
 permalink: /diceware-passphrase-generator/
-image: /images/uploads/2016/10/diceware.png
+image: https://joshdawes.com/images/uploads/2016/10/diceware.png
 categories:
   - Python
   - Security

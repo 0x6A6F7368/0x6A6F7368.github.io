@@ -8,11 +8,11 @@ description: Dynamic websites do have their advantages, but for a simple blog a 
 permalink: /migrating-wordpress-to-jekyll/
 ---
 
-![image](/images/jekyll.png){: .center-image }
-
 WordPress powers just over a [quarter](https://www.techrepublic.com/article/wordpress-quietly-powers-27-percent-of-the-web/){:target="_blank"} of the web.
 
 As with anything that has a large install base, it tends to be the target of malicious actors. Unpatched WordPress, or more likely, unpatched plugins are often the leverage required for an attacker to gain a foothold on your webserver.
+
+![image](/images/jekyll.png){: .center-image }
 
 Dynamic websites do have their advantages, but for a simple blog - such as the one you're reading now - a static website may be a more secure option. Enter [Jekyll](https://jekyllrb.com/){:target="_blank"} a simple, blog-aware, static site generator written in Ruby.
 
@@ -73,7 +73,7 @@ git push -u origin master
 Later, as you make changes you will only need to run the following commands to update your website:
 
 ```
-git add -all
+git add --all
 git commit -m "Your message here."
 git push -u origin master
 ```

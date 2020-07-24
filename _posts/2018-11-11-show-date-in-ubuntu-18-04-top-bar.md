@@ -4,7 +4,7 @@ date: 2018-11-11T23:48:59+00:00
 author: Josh
 layout: post
 permalink: /show-date-in-ubuntu-18-04-top-bar/
-image: /images/uploads/2018/11/show-date-ubuntu.jpg
+image: https://joshdawes.com/images/uploads/2018/11/show-date-ubuntu.jpg
 categories:
   - Linux
 ---

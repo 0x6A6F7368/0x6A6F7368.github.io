@@ -4,7 +4,7 @@ date: 2018-11-22T04:32:21+00:00
 author: Josh
 layout: post
 permalink: /fixing-the-calculator-key-in-ubuntu-18-04/
-image: /images/uploads/2018/11/fixing_the_calculator_key_in_ubuntu_18.04.jpg
+image: https://joshdawes.com/images/uploads/2018/11/fixing_the_calculator_key_in_ubuntu_18.04.jpg
 categories:
   - Linux
   - Ubuntu

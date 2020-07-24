@@ -4,7 +4,7 @@ date: 2018-11-23T04:30:23+00:00
 author: Josh
 layout: post
 permalink: /minimise-windows-on-ubuntu-18-04-with-super-m/
-image: /images/uploads/2018/11/windows-key.jpg
+image: https://joshdawes.com/images/uploads/2018/11/windows-key.jpg
 categories:
   - Linux
   - Ubuntu

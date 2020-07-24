@@ -4,7 +4,7 @@ date: 2019-05-29T06:38:27+00:00
 author: Josh
 layout: post
 permalink: /resizing-mbr-partition-freebsd/
-image: /images/uploads/2019/05/resizing-mbr-partition-freebsd.png
+image: https://joshdawes.com/images/uploads/2019/05/resizing-mbr-partition-freebsd.png
 categories:
   - FreeBSD
   - Tools

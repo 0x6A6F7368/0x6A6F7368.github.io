@@ -4,7 +4,7 @@ date: 2018-12-05T01:54:51+00:00
 author: Josh
 layout: post
 permalink: /quit-a-program-on-ubuntu-with-alt-q/
-image: /images/uploads/2018/12/quit-a-program-on-ubuntu.jpg
+image: https://joshdawes.com/images/uploads/2018/12/quit-a-program-on-ubuntu.jpg
 categories:
   - Linux
   - Ubuntu

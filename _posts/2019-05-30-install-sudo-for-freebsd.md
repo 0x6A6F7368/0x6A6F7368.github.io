@@ -4,7 +4,7 @@ date: 2019-05-30T23:34:28+00:00
 author: Josh
 layout: post
 permalink: /install-sudo-for-freebsd/
-image: /images/uploads/2017/06/install-sudo-for-freebsd.jpg
+image: https://joshdawes.com/images/uploads/2017/06/install-sudo-for-freebsd.jpg
 categories:
   - FreeBSD
 ---

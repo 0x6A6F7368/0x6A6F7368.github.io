@@ -4,7 +4,7 @@ date: 2019-07-08T05:31:16+00:00
 author: Josh
 layout: post
 permalink: /automating-backups-with-robocopy-and-powershell/
-image: /images/uploads/2019/07/robocopy.png
+image: https://joshdawes.com/images/uploads/2019/07/robocopy.png
 categories:
   - PowerShell
   - Tools

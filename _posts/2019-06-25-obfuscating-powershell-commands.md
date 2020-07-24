@@ -4,7 +4,7 @@ date: 2019-06-25T04:34:07+00:00
 author: Josh
 layout: post
 permalink: /obfuscating-powershell-commands/
-image: /images/uploads/2019/06/obfuscating-powershell-commands.png
+image: https://joshdawes.com/images/uploads/2019/06/obfuscating-powershell-commands.png
 categories:
   - PowerShell
   - Security

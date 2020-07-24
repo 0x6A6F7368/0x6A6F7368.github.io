@@ -4,7 +4,7 @@ date: 2018-11-13T02:54:06+00:00
 author: Josh
 layout: post
 permalink: /holiday-season-maintenance-for-family-and-friends/
-image: /images/uploads/2018/11/holiday-season-maintenance.jpg
+image: https://joshdawes.com/images/uploads/2018/11/holiday-season-maintenance.jpg
 categories:
   - Tools
   - Windows

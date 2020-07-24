@@ -4,7 +4,7 @@ date: 2019-06-14T06:50:25+00:00
 author: Josh
 layout: post
 permalink: /usb-rubber-ducky/
-image: /images/uploads/2019/06/usb-rubber-ducky.jpg
+image: https://joshdawes.com/images/uploads/2019/06/usb-rubber-ducky.jpg
 categories:
   - Security
 tags:

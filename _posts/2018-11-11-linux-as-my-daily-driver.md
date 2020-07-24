@@ -4,7 +4,7 @@ date: 2018-11-11T23:18:45+00:00
 author: Josh
 layout: post
 permalink: /linux-as-my-daily-driver/
-image: /images/uploads/2018/11/800px-Ubuntu-18.04-Desktop.png
+image: https://joshdawes.com/images/uploads/2018/11/800px-Ubuntu-18.04-Desktop.png
 categories:
   - Linux
 ---

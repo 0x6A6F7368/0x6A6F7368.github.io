@@ -4,7 +4,7 @@ date: 2019-01-07T02:50:29+00:00
 author: Josh
 layout: post
 permalink: /installing-and-using-git-and-github-on-ubuntu/
-image: /images/uploads/2019/01/github.png
+image: https://joshdawes.com/images/uploads/2019/01/github.png
 categories:
   - Linux
   - Tools

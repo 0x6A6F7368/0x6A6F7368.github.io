@@ -4,7 +4,7 @@ date: 2019-11-26T03:39:11+00:00
 author: Josh
 layout: post
 permalink: /backup-home-directory-with-rsnapshot/
-image: /images/uploads/2019/11/rsnapshot.png
+image: https://joshdawes.com/images/uploads/2019/11/rsnapshot.png
 categories:
   - Linux
   - Tools

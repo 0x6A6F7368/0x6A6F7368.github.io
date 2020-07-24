@@ -4,7 +4,7 @@ date: 2019-01-06T23:57:16+00:00
 author: Josh
 layout: post
 permalink: /change-the-default-editor-for-visudo/
-image: /images/uploads/2017/06/install-sudo-for-freebsd.jpg
+image: https://joshdawes.com/images/uploads/2017/06/install-sudo-for-freebsd.jpg
 categories:
   - Linux
   - Ubuntu

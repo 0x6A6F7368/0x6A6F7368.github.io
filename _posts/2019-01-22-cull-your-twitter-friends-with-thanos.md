@@ -4,7 +4,7 @@ date: 2019-01-22T09:09:38+00:00
 author: Josh
 layout: post
 permalink: /cull-your-twitter-friends-with-thanos/
-image: /images/uploads/2019/01/thanos.jpg
+image: https://joshdawes.com/images/uploads/2019/01/thanos.jpg
 categories:
   - Python
 ---

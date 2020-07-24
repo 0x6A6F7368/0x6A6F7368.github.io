@@ -4,7 +4,7 @@ date: 2020-03-10T04:25:46+00:00
 author: Josh
 layout: post
 permalink: /building-syncterm-on-ubuntu-18-04/
-image: /images/uploads/2020/03/syncterm.png
+image: https://joshdawes.com/images/uploads/2020/03/syncterm.png
 categories:
   - Linux
   - Nostalgia

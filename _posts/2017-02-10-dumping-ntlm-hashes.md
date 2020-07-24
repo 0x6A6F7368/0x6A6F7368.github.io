@@ -4,7 +4,7 @@ date: 2017-02-10T00:29:58+00:00
 author: Josh
 layout: post
 permalink: /dumping-ntlm-hashes/
-image: /images/uploads/2017/02/dumping_ntlm_hashes.jpg
+image: https://joshdawes.com/images/uploads/2017/02/dumping_ntlm_hashes.jpg
 categories:
   - Security
   - Tools

@@ -4,7 +4,7 @@ date: 2018-10-25T03:55:02+00:00
 author: Josh
 layout: post
 permalink: /use-notepad-like-vim-with-visimulator/
-image: /images/uploads/2018/10/notepadplusplus.png
+image: https://joshdawes.com/images/uploads/2018/10/notepadplusplus.png
 categories:
   - Tools
 ---
