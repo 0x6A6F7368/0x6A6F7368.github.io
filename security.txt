@@ -1,0 +1,8 @@
+---
+layout: none
+permalink: .well-known/security.txt
+---
+
+Contact: security at blu3.xyz
+Preferred-Languages: en
+Canonical: https://joshdawes.com/.well-known/security.txt

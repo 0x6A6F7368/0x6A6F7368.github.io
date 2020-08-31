@@ -43,6 +43,3 @@ plugins:
 
 # Google Analytics
 google_analytics: UA-67266827-1
-
-# Add .well-known
-include: [".well-known"]
