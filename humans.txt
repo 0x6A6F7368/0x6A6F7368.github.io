@@ -1,0 +1,9 @@
+/* TEAM */
+	Author: Josh Dawes
+	Twitter: https://twitter.com/0x6A6F7368
+	Github: https://github.com/0x6A6F7368
+
+/* SITE */
+	Last update: 31/08/2020
+	Language: English
+	IDE: Vim

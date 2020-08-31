@@ -1,0 +1,3 @@
+Contact: security@blu3.xyz
+Preferred-Languages: en
+Canonical: https://joshdawes.com/.well-known/security.txt
