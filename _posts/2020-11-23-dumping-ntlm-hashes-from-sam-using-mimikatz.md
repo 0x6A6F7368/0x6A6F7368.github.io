@@ -10,6 +10,8 @@ permalink: /dumping-ntlm-hashes-from-sam-using-mimikatz/
 
 ![image](/images/2020-11/mimikatz.png){: .center-image }
 
+TL;DR: lsadump::sam /system:SYSTEM /sam:SAM
+
 Previously I had written a blog post on [Dumping NTLM Hashes](https://joshdawes.com/dumping-ntlm-hashes/){:target="_blank"}
  with SamDump2. This method does not work for PCs running Windows 10 1607 or newer. I found this [great write up](https://www.insecurity.be/blog/2018/01/21/retrieving-ntlm-hashes-and-what-changed-technical-writeup/){:target="_blank"} explaining what changed with 1607. 
 
@@ -23,7 +25,7 @@ C:\Windows\system32\config\
 
 Download [Mimikatz](https://github.com/gentilkiwi/mimikatz){:target="_blank"} and extract to C:\mimikatz_trunk
 
-Save your victim SAM and SYSTEM databases in the Mimikatz directory. i.e. C:\mimikatz_trunk\x64
+Save your SAM and SYSTEM databases in the Mimikatz directory. i.e. C:\mimikatz_trunk\x64
 
 # Saving SAM and SYSTEM Databases
 
@@ -34,11 +36,11 @@ reg save HKLM\SAM c:\mimikatz_trunk\x64\SAM
 reg save HKLM\SYSTEM c:\mimikatz_trunk\x64\SYSTEM
 ```
 
-Note: You will be required to have administrator access to run these commands, and your directory must already exist. 
+Note: You will be required to have administrator access to run these commands and the directory must already exist. 
 
 
 # Dumping Hashes
-Now that you have Mimikatz and both the SAM and SYSTEM databases in the same directory, double click on mimikatz.exe. 
+Now that you have Mimikatz, the SAM database, and the SYSTEM database in the same directory, double click on mimikatz.exe. 
 
 You will be presented with the mimikatz command line. The first command you’ll want to run is the log command. This will allow you to save the output of what you are doing to a file for later reference. Start logging with the following command:
 
