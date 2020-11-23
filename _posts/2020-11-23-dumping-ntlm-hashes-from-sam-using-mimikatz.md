@@ -10,7 +10,7 @@ permalink: /dumping-ntlm-hashes-from-sam-using-mimikatz/
 
 ![image](/images/2020-11/mimikatz.png){: .center-image }
 
-TL;DR: lsadump::sam /system:SYSTEM /sam:SAM
+<strong>TL;DR:<strong>```lsadump::sam /system:SYSTEM /sam:SAM```
 
 Previously I had written a blog post on [Dumping NTLM Hashes](https://joshdawes.com/dumping-ntlm-hashes/){:target="_blank"}
  with SamDump2. This method does not work for PCs running Windows 10 1607 or newer. I found this [great write up](https://www.insecurity.be/blog/2018/01/21/retrieving-ntlm-hashes-and-what-changed-technical-writeup/){:target="_blank"} explaining what changed with 1607. 
