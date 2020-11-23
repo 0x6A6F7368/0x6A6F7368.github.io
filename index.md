@@ -1,6 +1,7 @@
 ---
 layout: page
 image: https://joshdawes.com/images/home-social.png
+description: My name is Josh Dawes, and I'm an IT Professional living in Country NSW, Australia.
 excluded: true
 ---
 <h3>Hello World!</h3>
@@ -13,7 +14,7 @@ This blog is mostly used as a reference for myself, but I hope you too will get 
 <br>
 <div align="center">
 <br>
-<img src="/images/home.png" width="150" />
+<img src="/images/home.png" width="200px"/>
 </div>
 <br><i>Thank you for stopping by!</i></div>
 

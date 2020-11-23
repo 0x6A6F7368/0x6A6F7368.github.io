@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Contact 
+description: I would love to hear from you.
+image: https://joshdawes.com/images/contact.jpg
 permalink: /contact/
 ---
+![image](/images/contact.jpg){: .center-image }
+
 <div align="center">
 <strong><i>I would love to hear from you.  </i></strong>
 </div>

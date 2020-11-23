@@ -1,8 +1,11 @@
 ---
 layout: page
 title: About
+image: https://joshdawes.com/images/about.jpg
+description: Josh Dawes is an IT professional with over a decade of professional experience.
 permalink: /about/
 ---
+![image](/images/about.jpg){: .center-image }
 <div align="center">
 <strong><i>Josh Dawes is an IT professional with over a decade of professional experience.</i></strong>  
 </div>
