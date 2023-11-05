@@ -2,10 +2,10 @@
 layout: page
 title: Recent Posts 
 image: https://joshdawes.com/images/recent-posts.jpg
-description: I hope you find something of interest!
+description: Explore the realms of IT, cybersecurity, and the wisdom gleaned from years in tech.
 permalink: /recent-posts/
 ---
-![image](/images/recent-posts.jpg){: .center-image }
+![image](/images/recent-banner.png){: .center-image }
 
 <div align="center">
 <strong><i>I hope you find something of interest!</i></strong>

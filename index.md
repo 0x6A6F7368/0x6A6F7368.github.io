@@ -1,20 +1,22 @@
 ---
 layout: page
 image: https://joshdawes.com/images/home-social.png
-description: My name is Josh Dawes, and I'm an IT Professional living in Country NSW, Australia.
+description: Explore the realms of IT, cybersecurity, and the wisdom gleaned from years in tech.
 excluded: true
 ---
 <h3>Hello World!</h3>
   
 <div align="center">
-<strong><i>My name is Josh Dawes, and I'm an IT Professional living in Country NSW, Australia.</i></strong>
+<strong><i>Welcome to JoshDawes.com</i></strong>
 <br>
 <br>
-This blog is mostly used as a reference for myself, but I hope you too will get some benefit from the content.
+Explore the realms of IT, cybersecurity, and the wisdom gleaned from years in tech.
+
+Share your insights or spark a conversation. This is where our digital paths cross.
 <br>
 <div align="center">
 <br>
-<img src="/images/home.png" width="200px"/>
+<img src="/images/home-banner.png"/>
 </div>
 <br><i>Thank you for stopping by!</i></div>
 

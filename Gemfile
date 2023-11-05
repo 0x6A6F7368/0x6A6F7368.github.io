@@ -36,3 +36,5 @@ end
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 gem 'commonmarker'
+gem "liquid", ">= 4.0.4"
+gem 'webrick'

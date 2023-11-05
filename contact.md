@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Contact 
-description: I would love to hear from you.
+description: Explore the realms of IT, cybersecurity, and the wisdom gleaned from years in tech.
 image: https://joshdawes.com/images/contact.jpg
 permalink: /contact/
 ---
-![image](/images/contact.jpg){: .center-image }
+![image](/images/contact-banner.png){: .center-image }
 
 <div align="center">
 <strong><i>I would love to hear from you.  </i></strong>

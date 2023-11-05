@@ -1,5 +1,5 @@
 ---
-title: 'Because f**k you, thats why'
+title: 'Because fk you, thats why'
 date: 2015-08-07T12:40:33+00:00
 author: Josh
 layout: post

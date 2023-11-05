@@ -2,17 +2,23 @@
 layout: page
 title: About
 image: https://joshdawes.com/images/about.jpg
-description: Josh Dawes is an IT professional with over a decade of professional experience.
+description: Explore the realms of IT, cybersecurity, and the wisdom gleaned from years in tech.
 permalink: /about/
 ---
-![image](/images/about.jpg){: .center-image }
+![image](/images/about-banner.png){: .center-image }
 <div align="center">
-<strong><i>Josh Dawes is an IT professional with over a decade of professional experience.</i></strong>  
+<strong><i>Josh is an adept IT professional whose career has spanned over 17 years.</i></strong>  
 </div>
 <br>
-Over this time, he has accumulated a wealth of knowledge that extends over many technologies. He likes to build things, break things, and most importantly - learn from the experience. 
+Marked by a continuous evolution alongside the rapid advancements in technology. His extensive experience covers a broad spectrum of the IT industry, fuelled by a consistent commitment to both learning and contributing to the field.
 
-Josh has been casually blogging since 2015 and has recently migrated his blog from a bare-metal server running in his loungeroom to GitHub pages. With this he hopes to be a more active blogger and hopes you find the information published on this blog helpful.
+In 2022, Josh broadened his skillset with a Training and Assessment course, reinforcing his capability to educate others in various technological disciplines. In 2023, he further specialised by undertaking Essential Eight Maturity Model training, demonstrating a proactive approach to the pivotal domain of cybersecurity.
+
+With a keen interest in AI and automation, Josh approaches these dynamic areas with the precision and analytical rigour they require, underscoring their integral role in both current and future technological landscapes.
+
+A blogger (occasionally) since 2015, Josh has documented his professional journey, offering insights and reflections through his writing. The transition of his blog to GitHub pages reflects his adaptability and commitment to sharing knowledge within the community.
+
+With this blog, Josh has primarily curated a digital repository for his own projects and learnings. The blog is an ever-evolving space that not only aids him in cataloging valuable experiences but also serves as a beacon for like-minded individuals seeking practical guidance or insights. While the content is a reflection of his personal IT odyssey, visitors might find the distilled information and narratives beneficial for their own technological exploits.
 <div align="center">
 <i>Thank you for stopping by!</i></div>
 
