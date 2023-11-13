@@ -1,6 +1,6 @@
 ---
 layout: page
-image: https://joshdawes.com/images/home-social.png
+image: https://joshdawes.com/images/social-home.png
 description: Explore the realms of IT, cybersecurity, and the wisdom gleaned from years in tech.
 excluded: true
 ---

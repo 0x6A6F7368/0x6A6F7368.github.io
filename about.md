@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: https://joshdawes.com/images/about.jpg
+image: https://joshdawes.com/images/about-banner.png
 description: Explore the realms of IT, cybersecurity, and the wisdom gleaned from years in tech.
 permalink: /about/
 ---

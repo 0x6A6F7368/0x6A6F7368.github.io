@@ -2,7 +2,7 @@
 layout: page
 title: Contact 
 description: Explore the realms of IT, cybersecurity, and the wisdom gleaned from years in tech.
-image: https://joshdawes.com/images/contact.jpg
+image: https://joshdawes.com/images/contact-banner.png
 permalink: /contact/
 ---
 ![image](/images/contact-banner.png){: .center-image }
