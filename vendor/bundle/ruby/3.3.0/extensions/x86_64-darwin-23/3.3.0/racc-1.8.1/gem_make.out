@@ -1,0 +1,18 @@
+current directory: /Users/joshdawes/0x6A6F7368.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/joshdawes/0x6A6F7368.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241001-1863-gnvieo sitelibdir\=./.gem.20241001-1863-gnvieo clean
+
+current directory: /Users/joshdawes/0x6A6F7368.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241001-1863-gnvieo sitelibdir\=./.gem.20241001-1863-gnvieo
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/joshdawes/0x6A6F7368.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241001-1863-gnvieo sitelibdir\=./.gem.20241001-1863-gnvieo install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20241001-1863-gnvieo/racc
+
+current directory: /Users/joshdawes/0x6A6F7368.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241001-1863-gnvieo sitelibdir\=./.gem.20241001-1863-gnvieo clean
