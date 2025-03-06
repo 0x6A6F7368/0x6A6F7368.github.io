@@ -16,7 +16,7 @@
 title: JoshDawes.com 
 email: hello@joshdawes.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Bearded Command-line Warrior
+  Your Friendly Neighbourhood Cyber-Man!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "0x6A6F7368"
