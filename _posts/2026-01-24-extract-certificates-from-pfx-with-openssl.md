@@ -61,12 +61,6 @@ The 700 on the directory ensures only the owner can access it. The 600 on the pr
 
 ## Clean Up
 
-Remove the PFX file from your home directory:
-
-```bash
-rm ~/example.pfx
-```
-
-Finally, restart your service.
+Remove the PFX file from wherever you stored it, then restart your service.
 
 And that's it. Perhaps one day I'll automate this with Let's Encrypt, but for now, this manual process works fine.
